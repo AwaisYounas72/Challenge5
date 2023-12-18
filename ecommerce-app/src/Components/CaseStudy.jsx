@@ -7,7 +7,7 @@ const CaseStudy = () => {
 
                 {/* <!-- Logo --> */}
                 <div className="">
-                    <img src="/public/products/CaseStudy/Case1.png" alt="Logo" className="" />
+                    <img src="/products/CaseStudy/Case1.png" alt="Logo" className="" />
                 </div>
                 <div className="text-lg">
                     <span className="font-semibold">2023 /</span>Case study
@@ -28,7 +28,7 @@ const CaseStudy = () => {
 
                 {/* <!-- Logo --> */}
                 <div className="">
-                    <img src="/public/products/CaseStudy/Frame.png" alt="Logo" className="" />
+                    <img src="/products/CaseStudy/Frame.png" alt="Logo" className="" />
                 </div>
                 <div className="text-lg">
                     <span className="font-semibold">2022 /</span>Case study
@@ -47,7 +47,7 @@ const CaseStudy = () => {
 
                 {/* <!-- Logo --> */}
                 <div className="">
-                    <img src="/public/products/CaseStudy/Case1.png" alt="Logo" className="" />
+                    <img src="/products/CaseStudy/Case1.png" alt="Logo" className="" />
                 </div>
                 <div className="text-lg">
                     <span className="font-semibold">2023 /</span>Case study
