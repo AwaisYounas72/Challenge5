@@ -14,30 +14,30 @@ const MenuCard = () => {
                 <div className="flex md:flex-col gap-5  ">
                     <div className="flex md:flex-row gap-7 flex-wrap">
                         <div>
-                            <img src="/public/products/cards/imageU1.png" alt="" />
+                            <img src="/products/cards/imageU1.png" alt="" />
                         </div>
                         <div>
-                            <img src="/public/products/cards/imageU2.png" alt="" />
+                            <img src="/products/cards/imageU2.png" alt="" />
                         </div>
                         <div>
-                            <img src="/public/products/cards/imageU3.png" alt="" />
+                            <img src="/products/cards/imageU3.png" alt="" />
                         </div>
                         <div>
-                            <img src="/public/products/cards/imageU4.png" alt="" />
+                            <img src="/products/cards/imageU4.png" alt="" />
                         </div>
                     </div>
                     <div className="flex md:flex-row gap-7 flex-wrap">
                         <div>
-                            <img src="/public/products/cards/imageD1.png" alt="" />
+                            <img src="/products/cards/imageD1.png" alt="" />
                         </div>
                         <div>
-                            <img src="/public/products/cards/imageD2.png" alt="" />
+                            <img src="/products/cards/imageD2.png" alt="" />
                         </div>
                         <div>
-                            <img src="/public/products/cards/imageD3.png" alt="" />
+                            <img src="/products/cards/imageD3.png" alt="" />
                         </div>
                         <div>
-                            <img src="/public/products/cards/imageD4.png" alt="" />
+                            <img src="/products/cards/imageD4.png" alt="" />
                         </div>
                     </div>
                 </div>
