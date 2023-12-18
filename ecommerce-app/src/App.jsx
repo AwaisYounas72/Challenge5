@@ -1,5 +1,5 @@
 import {} from 'react'
- import Navbar from './Components/navbar'
+ import Navbar from './Components/Navbar'
  import Hero from './Components/Hero'
  import MenuCard from './Components/MenuCard'
  import Technology from './Components/Technology'
