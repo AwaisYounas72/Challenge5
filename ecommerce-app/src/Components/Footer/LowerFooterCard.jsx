@@ -68,7 +68,7 @@ const LowerFooterCard = () => {
                     <input type="text" id="footer-field" name="footer-field" className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" placeholder="Email address" />
                   </div>
                   <button className="lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-white bg-black border-0 py-[1.13rem] px-3 focus:outline-none hover:bg-black/90 rounded">
-                    <img src="/public/products/Footer/Vector.svg" alt="" />
+                    <img src="/products/Footer/Vector.svg" alt="" />
                   </button>
                 </div>
               </div>
@@ -79,7 +79,7 @@ const LowerFooterCard = () => {
           <div className="">
             <div className="container px-5 py-6 mx-auto flex justify-between items-center sm:flex-row flex-col">
               <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-                <img src="/public/products/Footer/Vector.png" alt="logo" />
+                <img src="/products/Footer/Vector.png" alt="logo" />
                 <span className="ml-3 text-xl">Ecommerce App</span>
               </a>
               <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
