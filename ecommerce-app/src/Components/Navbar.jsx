@@ -13,7 +13,7 @@ const Navbar = () => {
   <nav className="bg-white   dark:bg-gray-900  ">
     <div className="  flex flex-row   justify-between   py-4 px-2">
       <a className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="/public/products/navbar/logo.png"className="h-8" alt="Logo" />
+          <img src="/products/navbar/logo.png"className="h-8" alt="Logo" />
           <span className="  text-2xl font-semibold  dark:text-white">Ecommerce App</span>
       </a>
       
@@ -26,7 +26,7 @@ const Navbar = () => {
              <button className="bg-black rounded-full text-white flex flex-row py-2 px-4"> 
              <div className="flex flex-row justify-center items-center gap-1">
              <div>
-             <img src="/public/products/navbar/cart.png" alt="" />
+             <img src="/products/navbar/cart.png" alt="" />
              </div>
              <div>
              <span className=" ">({Cart.length})</span>
@@ -35,7 +35,7 @@ const Navbar = () => {
              </button>
           </li>
           <li className="">
-            <button> <img src="/public/products/navbar/drop.png" alt="" /></button>
+            <button> <img src="/products/navbar/drop.png" alt="" /></button>
           </li>
           
         </ul>
