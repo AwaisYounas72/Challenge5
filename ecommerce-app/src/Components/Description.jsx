@@ -8,7 +8,7 @@ const Description = () => {
         The team at Studio went above and beyond with our < br/> onboarding, even finding a way to access the user’s<br/> microphone without triggering one of those annoying <br/> permission dialogs.
         </div>
         <div>
-            <img src="/public/products/Desc/phobia.png" alt="image" />
+            <img src="/products/Desc/phobia.png" alt="image" />
         </div>
     </div>
   )
