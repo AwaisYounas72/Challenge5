@@ -11,7 +11,7 @@ const MenuCard = () => {
                <hr className="text-[#979797] w-[54%] hidden md:block" />
                  </div>
 
-                <div className="flex md:flex-col gap-5  ">
+                <div className="flex md:flex-col gap-5 justify-center items-center ">
                     <div className="flex md:flex-row gap-7 md:gap-28 flex-wrap">
                         <div>
                             <img src="/products/cards/imageU1.png" alt="" />
