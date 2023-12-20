@@ -45,7 +45,7 @@ const Products = () => {
             </div>
             <Cards products={products} />
             {
-               tptalPages ? "": (<div className="w-full flex justify-center my-8">
+               totalPages ? "": (<div className="w-full flex justify-center my-8">
                 <Pagination count={totalPages} shape="rounded" onClick={handlePagination} onChange={handlePaginationNumber} />
             </div>)
             }
